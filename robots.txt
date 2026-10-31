@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brucin.github.io/famti-domain/sitemap.xml
